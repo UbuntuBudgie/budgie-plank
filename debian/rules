@@ -6,3 +6,5 @@
 override_dh_install:
 	dh_install Arc-Plank /usr/share/plank/themes
 	dh_install Vertex-Plank /usr/share/plank/themes
+	dh_install applications/* /usr/share/applications/
+	dh_install autostart/* /etc/xdg/autostart/
