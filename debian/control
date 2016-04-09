@@ -1,0 +1,16 @@
+Source: budgie-plank
+Section: gnome
+Priority: extra
+Maintainer: fossfreedom <foss.freedom@gmail.com>
+Build-Depends: debhelper (>= 9),
+ dh-buildinfo
+Standards-Version: 3.9.7
+Vcs-Browser: https://github.com/budgie-remix/budgie-plank.git
+Homepage: http://github.com/fossfreedom/budgie-remix
+
+Package: budgie-plank
+Architecture: all
+Depends: ${misc:Depends},
+ plank
+Description:  Plank dock configuration for budgie.
+ Configuration for the plank dock
