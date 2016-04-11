@@ -1,3 +1,9 @@
+budgie-plank (0.1-1ubuntu1) xenial; urgency=medium
+
+  * override iconsize = 36
+
+ -- fossfreedom <foss.freedom@gmail.com>  Mon, 11 Apr 2016 21:25:20 +0100
+
 budgie-plank (0.1-1) xenial; urgency=high
  
   * New release
