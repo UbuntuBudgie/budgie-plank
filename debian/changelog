@@ -1,3 +1,9 @@
+budgie-plank (0.1-1ubuntu2) xenial; urgency=medium
+
+  * revert iconsize back to 48 - too blurry
+
+ -- fossfreedom <foss.freedom@gmail.com>  Tue, 12 Apr 2016 20:30:12 +0100
+
 budgie-plank (0.1-1ubuntu1) xenial; urgency=medium
 
   * override iconsize = 36
