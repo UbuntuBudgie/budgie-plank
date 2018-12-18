@@ -1,4 +1,10 @@
 [net.launchpad.plank.dock.settings]
-position='left'
-theme='Arc-Plank'
-icon-size=48
+theme='Transparent'
+position='bottom'
+items-alignment='center'
+icon-size=64
+zoom-enabled=true
+zoom-percent=150
+hide-mode='window-dodge'
+hide-delay=500
+unhide-delay=0
